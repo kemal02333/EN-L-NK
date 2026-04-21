@@ -1,0 +1,6 @@
+{
+  "name": "Eğitmen Kontrol",
+  "description": "Öğretmenler için öğrenci gelişim takip, görev atama ve dijital güvenli ortam yönetim paneli.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
